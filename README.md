@@ -160,15 +160,7 @@ const saru: Developer = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sarulatha-dev&theme=github-compact&bg_color=0d1117&color=378add&line=0f6e56&point=e6edf3&hide_border=true" />
 </div>
 
----
 
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sarulatha-dev&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
----
 
 ## 🌏 Target Markets
 

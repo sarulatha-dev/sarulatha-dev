@@ -1,15 +1,15 @@
 <div align="center">
 
-<!-- LEGO STYLE DEVELOPER CODING GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
+<!-- WORKING LEGO-STYLE DEVELOPER GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
 
-<br/>
+<br/><br/>
 
-<!-- YOUR NAME -->
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=J%20Saru%20Latha&fontSize=65&fontColor=00F7FF&fontAlignY=60&animation=fadeIn&stroke=00F7FF&strokeWidth=1" width="100%"/>
+<!-- NAME BANNER -->
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=80&text=J%20Saru%20Latha&fontSize=65&fontColor=00F7FF&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-<!-- TYPING ANIMATION - YOUR EXACT LINES -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Developer+in+Progress+🚀;Laravel+%7C+PHP+Enthusiast+⚡;BTech+IT+Student+🎓;Future+Global+Tech+Professional+🌍" alt="Typing SVG" />
+<!-- TYPING ANIMATION - FIXED URL -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&repeat=true&width=700&lines=Backend+Developer+in+Progress;Laravel+%7C+PHP+Enthusiast;BTech+IT+Student;Future+Global+Tech+Professional" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -36,8 +36,7 @@
 
 ### 🗄️ Databases & Systems
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,docker&theme=dark&perline=4"/>
-
-> + Neo4j ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
 
 ### 🔧 Tools
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,prisma&theme=dark&perline=5"/>
@@ -68,13 +67,13 @@
 
 ### ✨ Key Features
 
-| # | Feature | Description |
-|---|---|---|
-| 🎭 | **Interactive Drama Episodes** | Decision-making scenarios with branching storylines |
-| 🤖 | **AI Salary Negotiation Simulator** | Real-time AI feedback on negotiation strategies |
-| 🧠 | **5 Whys Analysis Tool** | Structured root-cause problem-solving framework |
-| 📊 | **Gamified Dashboard** | XP system, streaks & progress tracking |
-| 📅 | **Meeting Manager** | AI-generated meeting summaries & action items |
+| Feature | Description |
+|---|---|
+| 🎭 **Interactive Drama Episodes** | Decision-making scenarios with branching storylines |
+| 🤖 **AI Salary Negotiation Simulator** | Real-time AI feedback on negotiation strategies |
+| 🧠 **5 Whys Analysis Tool** | Structured root-cause problem-solving framework |
+| 📊 **Gamified Dashboard** | XP system, streaks & progress tracking |
+| 📅 **Meeting Manager** | AI-generated meeting summaries & action items |
 
 ### 👩‍💻 My Role
 - ✅ **Sole Developer** — End-to-End Development
@@ -96,7 +95,7 @@
 ## 🔥 GitHub Streak
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=sarulatha-dev&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00F7FF&ring=00F7FF&fire=FF6C37&currStreakLabel=00F7FF" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=sarulatha-dev&theme=tokyonight&hide_border=true&background=0D0D0D&stroke=00F7FF&ring=00F7FF&fire=FF6C37&currStreakLabel=00F7FF"/>
 </div>
 
 ---
